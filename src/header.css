@@ -41,11 +41,11 @@ text-transform: uppercase;
     font-weight: 600;
 }
 
-.nav-item a:hover {
+.nav-item:hover {
     background-color: var(--cor-primaria-4);
 color: var(--cor-neutra-1);
 }
 
 .nav-item.ativo a {
-    
+
 }
